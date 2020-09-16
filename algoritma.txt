@@ -1,0 +1,19 @@
+1. mulai program
+2. input number 
+3. cek apakah number memiliki tipe data number jika iya 
+   akan melanjutkan proses selanjutnya, jika tidak makan akan menampilkan 
+   tulisan "not number" dan kembali step 2
+4. mengubah number menjadi array yg didalamnya terdapat number
+5. membuat variable a yang mengambil elemen dari index ke 0 sampai index ke 6 
+   kemudian number diurutkan dari nilai terkecil ke terbesar
+6. membuat variable b yang mengambil elemen dari index ke 7 sampai index ke 13 
+   kemudian number diurutkan dari nilai terkecil ke terbesar
+7. membuat variable c yang mengambil elemen dari index ke 14 sampai index ke 16 
+   kemudian number diurutkan dari nilai terkecil ke terbesar
+8. membuat variable d yang bertujuan untuk menggabungkan array a,b, dan c
+9. membuat variable str yang berisi string kosong 
+10. melakukan perulangan, variabel i bernilai 0 jika i < d.length maka i akan bertambah
+11. menambah dan menggabungkan str dengan d[i] dan digabung lagi dengan string kosong
+12. membuat variable num yang bertujuan untuk mengubah string menjadi number
+13. program selesai
+
